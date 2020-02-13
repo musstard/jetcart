@@ -2,5 +2,5 @@
 
 phpinfo();
 
-echo "herp derp";
+echo "herp derp2";
 ?>
