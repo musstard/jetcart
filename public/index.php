@@ -1,5 +1,5 @@
 <?php
-echo "new folder";
+echo "Nathan demo";
 
 phpinfo();
 
