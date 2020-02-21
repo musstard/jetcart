@@ -2,7 +2,7 @@
 
 echo "Is bob.php there?";
 
-if ($handle = opendir('/var/www/')) {
+if ($handle = opendir('/var/www/public')) {
 
     while (false !== ($entry = readdir($handle))) {
 
